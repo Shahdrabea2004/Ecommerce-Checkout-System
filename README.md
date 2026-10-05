@@ -33,7 +33,7 @@ A console-based e-commerce checkout system developed in **pure Java** using Obje
 
 ```bash
 git clone https://github.com/Shahdrabea2004/Ecommerce-Checkout-System.git
-cd Ecommerce-Checkout-Java
+cd Ecommerce-Checkout-System
 javac -d out src/*.java
 java -cp out Main
 ```
